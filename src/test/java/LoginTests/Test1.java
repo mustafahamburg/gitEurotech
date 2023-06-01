@@ -7,11 +7,13 @@ public class Test1 {
         String surname="Bauer";
 
         // Adres
-        String no="00000000";
-        String street="xxxxxxxxxxxx";
-        String state= "xxxxxx";
+        String no="456526652";
+        String street="Hemingway";
+        String state= "California";
 
-
+     //Student info
+        String nameStudent="John";
+        int studentNo=224;
 
     }
 }
