@@ -3,13 +3,17 @@ package LoginTests;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("Project started");
-        String name="Jack";
-        String surname="Bauer";
+        String name="Ali";
+        String surname="Özturk";
 
         // Adres
-        String no="1458263657";
-        String street="Karacali";
-        String state= "California";
+
+        String street="Bahcelievler";
+        String state= "Ankara";
+
+        //Student info
+        String nameStudent="John";
+        int studentNo=224;
 
 
 
