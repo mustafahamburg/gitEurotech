@@ -6,5 +6,12 @@ public class Test1 {
         String name="Jack";
         String surname="Bauer";
 
+        // Adres
+        String no="1458263657";
+        String street="Karacali";
+        String state= "California";
+
+
+
     }
 }
