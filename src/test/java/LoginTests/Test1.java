@@ -7,9 +7,9 @@ public class Test1 {
         String surname="Bauer";
 
         // Adres
-        String no="1458263657";
-        String street="Karacali";
-        String state= "California";
+        String no="00000000";
+        String street="xxxxxxxxxxxx";
+        String state= "xxxxxx";
 
 
 
