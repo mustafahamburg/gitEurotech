@@ -15,5 +15,7 @@ public class Test1 {
         String nameStudent="John";
         int studentNo=224;
 
+
+
     }
 }
