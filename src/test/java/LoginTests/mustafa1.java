@@ -8,5 +8,6 @@ public class mustafa1 {
 
         String country="Deutschland";
         String city="Hamburg";
+        // Aksam calismasi
     }
 }
